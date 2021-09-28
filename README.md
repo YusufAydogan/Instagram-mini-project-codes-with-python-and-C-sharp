@@ -1,3 +1,7 @@
  First-My-Project
 my first projects in software
-You can copy and compile the codes here. And you will have a mini atm app.
+
+One of the projects I did when I first started the software
+You can copy and use the codes from here. And you will have two kinds of mini atm apps. 
+(if-else and switch case version)
+
