@@ -14,6 +14,6 @@ gidenDeger = "İstediğiniz metin veya linki girin."
 qr.add_data(gidenDeger)
 qr.make(fit=True)
 
-resim = qr.make_image(fill_color="red", back_color="blue") 
+resim = qr.make_image(fill_color="red", back_color="white") 
 #Yukarıdaki satırda olduğu gibi istediğiniz ana ve arkaplan rengini kullanabilirsiniz.
 resim.save("advenceQR.png") #Ve son olarak istediğiniz isimde kaydedebilirsiniz.
